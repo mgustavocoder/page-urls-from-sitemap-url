@@ -1,0 +1,27 @@
+{
+  "name": "page-urls-from-sitemap-url",
+  "version": "0.0.1-alpha",
+  "description": "Get website urls from the sitemap url.",
+  "main": "index.js",
+  "engines": {
+    "node": ">=12"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mgustavocoder@gmail.com",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^7.25.0",
+    "eslint-config-standard": "^16.0.2",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^4.3.1"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "axios-retry": "^3.1.9",
+    "lodash.get": "^4.4.2",
+    "xml2js": "^0.4.23"
+  }
+}

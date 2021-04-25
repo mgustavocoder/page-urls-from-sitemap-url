@@ -1,6 +1,6 @@
 {
   "name": "page-urls-from-sitemap-url",
-  "version": "0.0.1-alpha",
+  "version": "0.0.2-alpha",
   "description": "Get website urls from the sitemap url.",
   "main": "index.js",
   "engines": {

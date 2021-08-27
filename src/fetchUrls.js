@@ -1,3 +1,4 @@
+const logger = require('./src/lib/logger')
 const axios = require('axios')
 const axiosRetry = require('axios-retry')
 const xml2js = require('xml2js')
@@ -31,7 +32,7 @@ async function fetchUrls (siteMapUrl) {
 
     return resultUrls.flat()
   } catch (err) {
-    console.log({ siteMapUrl, message: err.message }, 'error')
+    logger.error({ siteMapUrl, message: err.message }, 'Error to fetch urls for this sitemap.')
     return []
   }
 }

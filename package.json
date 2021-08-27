@@ -1,7 +1,7 @@
 {
   "name": "page-urls-from-sitemap-url",
-  "version": "0.0.3-alpha",
-  "description": "Get website urls from the sitemap url.",
+  "version": "0.0.4-alpha",
+  "description": "Get the list of website pages urls given a sitemap url.",
   "main": "index.js",
   "engines": {
     "node": ">=12"
@@ -22,6 +22,8 @@
     "axios": "^0.21.1",
     "axios-retry": "^3.1.9",
     "lodash.get": "^4.4.2",
-    "xml2js": "^0.4.23"
+    "xml2js": "^0.4.23",
+    "pino": "^6.12.0",
+    "pino-pretty": "^5.1.2"
   }
 }

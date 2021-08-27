@@ -1,7 +1,7 @@
 {
   "name": "page-urls-from-sitemap-url",
-  "version": "0.0.5-alpha",
-  "description": "Get the list of website pages urls given a sitemap url.",
+  "version": "0.0.6-alpha",
+  "description": "Fetch the list of website page URLs given a sitemap URL.",
   "main": "index.js",
   "engines": {
     "node": ">=12"

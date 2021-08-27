@@ -1,13 +1,13 @@
-## Description:
+## Description
 Fetch the list of website pages urls given a sitemap url.
 
-NPM module:
+**NPM module:**
 https://www.npmjs.com/package/page-urls-from-sitemap-url
 
-Github:
+**Github:**
 https://github.com/mgustavocoder/page-urls-from-sitemap-url
 
-How to install:
+**How to install:**
 npm i page-urls-from-sitemap-url
 
 ## Usage

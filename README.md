@@ -8,7 +8,9 @@ https://www.npmjs.com/package/page-urls-from-sitemap-url
 https://github.com/mgustavocoder/page-urls-from-sitemap-url
 
 **How to install:**
+```
 npm i page-urls-from-sitemap-url
+```
 
 ## Usage
 const fetchUrls = require('page-urls-from-sitemap-url')

@@ -1,5 +1,5 @@
 ## Description:
-Get the list of website pages urls given a sitemap url.
+Fetch the list of website pages urls given a sitemap url.
 
 NPM module:
 https://www.npmjs.com/package/page-urls-from-sitemap-url

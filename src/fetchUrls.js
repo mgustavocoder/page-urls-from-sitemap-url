@@ -1,4 +1,4 @@
-const logger = require('./src/lib/logger')
+const logger = require('./logger')
 const axios = require('axios')
 const axiosRetry = require('axios-retry')
 const xml2js = require('xml2js')
